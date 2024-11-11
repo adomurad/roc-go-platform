@@ -1,0 +1,20 @@
+generated-docs/
+
+build
+build_ci
+app
+
+*.a
+*.tar.br
+*.tar.gz
+*.ll
+*.so
+*.o
+*.h 
+*.obj
+
+host/libhost.h
+
+generated files
+# host/roc
+
