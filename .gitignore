@@ -10,7 +10,7 @@ app
 *.ll
 *.so
 *.o
-*.h 
+# *.h 
 *.obj
 
 host/libhost.h
